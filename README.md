@@ -1,6 +1,12 @@
 # Interpolation-and-Curve-Fitting-Desktop-App
 A digital signal processing desktop app using python and PyQt5 where  Users can browse for a signal, interpolate, and visualize signals along with latex mathematical equations and an error map.
 
+## Team members
+- Yara Hossam 
+- Haidy Sayed
+- Hager Ashraf
+- Hussien Rashidy
+
 ## Introduction
 Curve fitting and interpolation are among the most usable tool in signal processing and data science. In 
 curve fitting, the given points can be treated as one chunk that fits one polynomial, or small chunks, each to be fit into a 
